@@ -10,7 +10,7 @@
 
 ## Education
 -
-  **ADS**	| *Federal Institute of Tocantins (_January 2023_ - _December 2025_)* 
+  **ADS**	| *Federal Institute of Tocantins (January 2023 - December 2025)* 
 
 ## Work Experience
 **AI/ML Developer @ AutoU (_feb 2025 - Present_)**
