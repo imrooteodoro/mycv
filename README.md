@@ -3,7 +3,10 @@
   <img src="https://github.com/imrooteodoro/mycv/blob/main/img/imrooteodoro.png?raw=true" alt="Profile picture" width="150" style="border-radius: 50%;" />
 </p>
 
-# Adelson Teodoro
+
+<h1 align="center">
+    Adelson Teodoro
+</h1>
 
 ## AI/ML Engineer
 
