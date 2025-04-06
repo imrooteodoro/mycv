@@ -1,5 +1,7 @@
 
-<div> <img src="img/imrooteodoro.png" width="250" height="250"> </div>
+<p align="center">
+  <img src="https://github.com/imrooteodoro/mycv/blob/main/img/imrooteodoro.png?raw=true" alt="Profile picture" width="150" style="border-radius: 50%;" />
+</p>
 
 # Adelson Teodoro
 
