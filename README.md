@@ -1,4 +1,9 @@
-# AI/ML Engineer
+
+<div> <img src="img/imrooteodoro.png" width="250" height="250"> </div>
+
+# Adelson Teodoro
+
+## AI/ML Engineer
 
 *Technical Skills:* <br>
 **LLMs, Machine Learning, ML-Ops, Knowledge-Graphs, Computer Vision(Python, TypeScript and Java)**
