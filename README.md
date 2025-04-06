@@ -55,7 +55,7 @@
 **- Tools: Python, Amazon Bedrock, Amazon Rekognition, S3 Bucket, Aws Lambda & Api Gateway**
 
 ### [Eco Tech Bot](https://github.com/imrooteodoro/E-waste-Agent)
-*Chatbot desenvolvido utilizando um modelo LLM com o intuito de ajudar as pessoas descartarem corretamente o lixo eletrônico, afi de evitar problemas ambientais.*
+*Chatbot desenvolvido utilizando um modelo LLM com o intuito de ajudar as pessoas descartarem corretamente o lixo eletrônico, afim de evitar problemas ambientais.*
 
 **- Tools/Skills: Python, Docker, google-generativeai, few-shot prompt engineering, Flask Framework**
 
