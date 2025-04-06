@@ -3,4 +3,4 @@ logo: https://github.com/imrooteodoro/mycv/blob/main/img/imrooteodoro.png?raw=tr
 #description: text below image
 show_downloads: true
 theme: jekyll-theme-minimal
-include: ["assets/style.css"]
+include: ["https://github.com/imrooteodoro/mycv/blob/main/assets/style.css"]
