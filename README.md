@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/imrooteodoro/mycv/blob/main/img/imrooteodoro.png?raw=true" alt="Profile picture" width="150" style="border-radius: 50%;" />
+  <img src="img/imrooteodoro.png" alt="Profile picture" width="150" style="border-radius: 50%;" />
 </p>
 
 
