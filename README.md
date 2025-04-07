@@ -11,12 +11,11 @@
 ## AI/ML Engineer
 
 *Technical Skills:* <br>
-**LLMs, Machine Learning, ML-Ops, Knowledge-Graphs, Computer Vision(Python, TypeScript and Java)**
+**LLMs, Machine Learning, ML-Ops, Knowledge-Graphs, Computer Vision |(Python, TypeScript and Java)**
 
 *Research interests:*<br>
 
 **1. Computer Vision, Text-To-Speech and Speech-To-Text, Languages.**<br>
-
 
 ## Education
 -
@@ -49,23 +48,23 @@
 ### [Trace Vision Chatbot](https://github.com/imrooteodoro/trace-vision-chatbot)
 *A system for registering, locating, and tracking missing persons using a chatbot. Users can report missing or found individuals by submitting photos and details.*
 
-**- Services:AWS Lambda, Amazon Bedrock, Amazon Polly, s3 Bucket, DynamoDB, Amazon Lex & Twilio**
-**- Tools: Python & Serverless Framework**
+**Services:AWS Lambda, Amazon Bedrock, Amazon Polly, s3 Bucket, DynamoDB, Amazon Lex & Twilio**
+**Tools: Python & Serverless Framework**
 
 ### [LaTEX AI](https://github.com/imrooteodoro/latex-ai-agent)
 *AI-powered tool that allows users to generate LaTeX documents from user inputs such as titles, content, themes, and images. The tool automatically creates structured LaTeX code for both articles and presentations, simplifying the creation of academic and professional documents.*
 
-**- Tools: Python (Flask), google-generativeai, Tex Live & Docker**
+**Tools: Python (Flask), google-generativeai, Tex Live & Docker**
 
 ### [Face Pet](https://github.com/imrooteodoro/pet-face-ai-computer-vision)
 
-*O projeto tem como objetivo o desenvolvimento de uma API capaz de reconhecer pessoas e suas emoções através do Amazon Rekognition, utilizando o framework Serverless e recebendo imagens postadas manualmente em um bucket no Amazon S3. Com ela, também é possível reconhecer pets e trazer dicas de cuidados, comportamento e saúde através do Amazon Bedrock.*
+*The project aims to develop an API capable of recognizing people and their emotions through Amazon Rekognition, using the Serverless framework and receiving images manually uploaded to a bucket in Amazon S3. It is also possible to recognize pets and provide care, behavior, and health tips through Amazon Bedrock.*
 
 
-**- Tools: Python, Amazon Bedrock, Amazon Rekognition, S3 Bucket, Aws Lambda & Api Gateway**
+**Tools: Python, Amazon Bedrock, Amazon Rekognition, S3 Bucket, Aws Lambda & Api Gateway**
 
 ### [Eco Tech Bot](https://github.com/imrooteodoro/E-waste-Agent)
-*Chatbot desenvolvido utilizando um modelo LLM com o intuito de ajudar as pessoas descartarem corretamente o lixo eletrônico, afim de evitar problemas ambientais.*
+*Chatbot developed using an LLM model with the aim of helping people correctly dispose of electronic waste in order to prevent environmental issues*
 
-**- Tools/Skills: Python, Docker, google-generativeai, few-shot prompt engineering, Flask Framework**
+**Tools/Skills: Python, Docker, google-generativeai, few-shot prompt engineering, Flask Framework**
 
