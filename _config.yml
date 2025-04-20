@@ -134,23 +134,9 @@ sass:
 
 plugins:
   - jekyll-seo-tag
-  - title: A Little More About Me
-    layout: text
-    content: | 
-      Beyond technology, I cultivate a multidimensional perspective through:
-      
-      **🧠 Intellectual Pursuits**
-      - Avid student of mathematical concepts (particularly Linear Algebra and Discrete Mathematics)
-      - Competitive chess player (Elo 1600 - tactics enthusiast)
-      - Native Portuguese speaker, fluent in English, intermediate in Russian. Currently exploring Greek, Italian, Spanish, and French.
-
-      **✨ Faith & Philosophy**
-      - Strong believer in faith-driven development principles
-      - Interested in the intersection of spirituality and technology
-
-    
+  
 # Footer
-footer_show_references: false
+footer_show_references: true
 # references_title: References on request (Override references text)
 
 # Build settings
@@ -162,3 +148,20 @@ sass:
 
 plugins:
  - jekyll-seo-tag
+
+
+
+content:
+  - title: A Little More About Me
+    layout: text
+    content: | 
+      Beyond technology, I cultivate a multidimensional perspective through:
+
+      **🧠 Intellectual Pursuits**
+      - Avid student of mathematical concepts (particularly Linear Algebra and Discrete Mathematics)
+      - Competitive chess player (Elo 1600 - tactics enthusiast)
+      - Native Portuguese speaker, fluent in English, intermediate in Russian. Currently exploring Greek, Italian, Spanish, and French.
+
+      **✨ Faith & Philosophy**
+      - Strong believer in faith-driven development principles
+      - Interested in the intersection of spirituality and technology
