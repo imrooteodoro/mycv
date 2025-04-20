@@ -25,9 +25,7 @@ additional_links:
   - title: LinkedIn
     icon: fab fa-linkedin
     url: linkedin.com/in/adelson-teodoro-dev
-  - title: GitHub
-    icon: fab fa-github
-    url: github.com/imrooteodoro
+
 
 # About Section
 about_profile_image: img/imrooteodoro.png
