@@ -70,25 +70,25 @@ content:
         description: |
           • Languages: Python (Advanced), SQL (Advanced), TypeScript/JavaScript (Intermediate)  
           • Frameworks: Django, FastAPI, Flask, Node.js, Streamlit  
-          • AI/ML: Transformers, Hugging Face, Fine-tuning, NLP, LangChain  
+          • AI/ML: Transformers, Hugging Face, Fine-tuning, NLP, LangChain, RAG, Cosine Similarity Techniques
           • Cloud: AWS (Lambda, S3, Bedrock), Azure (OpenAI, DevOps)  
-          • Databases: PostgreSQL, DynamoDB, MongoDB, ChromaDB  
-          • Tools: Docker, Git/GitHub, Jira, Terraform, Serverless
+          • Databases: PostgreSQL, MySQl/MariaDB, DynamoDB, MongoDB, ChromaDB  
+          • Tools: Docker, Git/GitHub, Jira, Trello, Terraform, Serverless
 
   - title: Professional Experience
     layout: list
     content:
       - layout: left
-        title: AI Engineer - AutoU (B3 Exchange Client)
+        title: AI Engineer - AutoU (B3 Client)
         caption: Feb 2025 - Present
         description: |
           • Built automation systems for dataset sanitization and BERT model training  
-          • Implemented semantic email analysis using vector databases for LLM inputs  
+          • Implemented semantic email analysis using vector databases for LLM inputs and RAG  
           • Integrated with cross-functional teams using Scrum methodologies  
           • Technologies: Python, Transformers, FastAPI, ChromaDB, Azure OpenAI, Docker
 
       - layout: left
-        title: AI Engineer - Compass.UOL (Tecban Finna MVP)
+        title: AI Engineer - Compass.UOL (Cleint Tecban - Finna MVP)
         caption: Sep 2024 - Feb 2025
         description: |
           • Developed MVP for OpenFinance data analysis using generative AI  
@@ -103,7 +103,7 @@ content:
           • Developed POCs in Generative AI and Computer Vision  
           • Integrated/trained open-source models for data processing  
           • Implemented AWS cloud solutions for scalable processing  
-          • Technologies: Python, AWS (SageMaker, Lex, Polly), Docker, Kubernetes
+          • Technologies: Python, AWS (SageMaker, Lex, Polly, S3, DynamoDB, Aurora, Alexa Skill Builder, ElasticBeanstalk, Cloudwatch, EC2), Docker, Kubernetes
 
   - title: Education
     layout: list
