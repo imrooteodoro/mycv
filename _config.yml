@@ -149,7 +149,6 @@ content:
           • Legacy system integration via REST API  
           Technologies: Python, BERT, Transformers, FastAPI, Pandas
 
-content:
   - title: A Little More About Me
     layout: text
     content: | 
