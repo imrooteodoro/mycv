@@ -70,8 +70,7 @@ content:
         description: |
           • Languages: Python (Advanced), SQL (Advanced), TypeScript/JavaScript (Intermediate)  
           • Frameworks: Django, FastAPI, Flask, Node.js, Streamlit  
-          • AI/ML: Transformers, Hugging Face, Fine-tuning, NLP, LangChain, RAG, Cosine Similarity Techniques 
-
+          • AI/ML: Transformers, Hugging Face, Fine-tuning, NLP, LangChain, RAG, Cosine Similarity Techniques  
           • Cloud: AWS (Lambda, S3, Bedrock), Azure (OpenAI, DevOps)  
           • Databases: PostgreSQL, MySQl/MariaDB, DynamoDB, MongoDB, ChromaDB  
           • Tools: Docker, Git/GitHub, Jira, Trello, Terraform, Serverless
