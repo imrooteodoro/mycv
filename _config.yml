@@ -1,117 +1,154 @@
 # Site
-repository: sproogen/resume-theme
+repository: imrooteodoro/myresume
 favicon: images/favicon.ico
 
 # Content configuration version
 version: 2
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Adelson Teodoro Nunes
+title: AI Engineer | Backend Developer
+email: imrooteodoro.ai.dev@gmail.com
+website: imrooteodoro.tech
+location: Tocantins, Brazil
+phone: (63) 99119-0262
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
-# stackoverflow_username: "00000001"
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
-# xing_username: jekyll
-# pinterest_username: jekyll
-youtube_username: globalmtb
-# googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
+github_username: imrooteodoro
+instagram_username: imrooteodoro
 
 # Additional icon links
 additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-#   url: Link url (eg. https://google.com)
-
-# Google Analytics and Tag Manager
-# Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
+  - title: LinkedIn
+    icon: fab fa-linkedin
+    url: linkedin.com/in/adelson-teodoro-dev
+  - title: GitHub
+    icon: fab fa-github
+    url: github.com/imrooteodoro
 
 # About Section
-# about_title: About Me
-about_profile_image: images/profile.jpg
-about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+about_profile_image: img/imrooteodoro.png
+about_content: |
+  Hi, I'm Adelson Teodoro, an AI Engineer & Backend Developer passionate about creating intelligent solutions.
+  
+  Core Competencies: <mark>Generative AI</mark>, <mark>Cloud Architecture</mark>, and <mark>Full-cycle Development</mark>
 
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
+  - title: Skills
+    layout: list
+    content:
+      - layout: left
+        description: |
+          • Languages: Python (Advanced), SQL (Advanced), TypeScript/JavaScript (Intermediate)  
+          • Frameworks: Django, FastAPI, Flask, Node.js, Streamlit  
+          • AI/ML: Transformers, Hugging Face, Fine-tuning, NLP, LangChain  
+          • Cloud: AWS (Lambda, S3, Bedrock), Azure (OpenAI, DevOps)  
+          • Databases: PostgreSQL, DynamoDB, MongoDB, ChromaDB  
+          • Tools: Docker, Git/GitHub, Jira, Terraform, Serverless
+
+  - title: Professional Experience
+    layout: list
+    content:
+      - layout: left
+        title: AI Engineer - AutoU (B3 Exchange Client)
+        caption: Feb 2025 - Present
+        description: |
+          • Built automation systems for dataset sanitization and BERT model training  
+          • Implemented semantic email analysis using vector databases for LLM inputs  
+          • Integrated with cross-functional teams using Scrum methodologies  
+          • Technologies: Python, Transformers, FastAPI, ChromaDB, Azure OpenAI, Docker
+
+      - layout: left
+        title: AI Engineer - Compass.UOL (Tecban Finna MVP)
+        caption: Sep 2024 - Feb 2025
+        description: |
+          • Developed MVP for OpenFinance data analysis using generative AI  
+          • Created data pipelines for financial data extraction/transformation  
+          • Built AI agents for predictive insights generation  
+          • Technologies: Python, AWS Lambda, Bedrock, DynamoDB, Terraform
+
+      - layout: left
+        title: AWS AI Engineer - Compass.UOL (Intern)
+        caption: Mar 2024 - Aug 2024
+        description: |
+          • Developed POCs in Generative AI and Computer Vision  
+          • Integrated/trained open-source models for data processing  
+          • Implemented AWS cloud solutions for scalable processing  
+          • Technologies: Python, AWS (SageMaker, Lex, Polly), Docker, Kubernetes
+
+  - title: Education
+    layout: list
+    content:
+      - layout: left
+        title: Federal Institute of Tocantins
+        caption: Jan 2023 - Dec 2025
+        sub_title: BSc in Systems Analysis and Development
+        description: |
+          Relevant Coursework:  
+          • Computer Architecture • Data Structures • Algorithms  
+          • Discrete Mathematics • Linear Algebra • Cloud Computing
+
+  - title: Projects
+    layout: list
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
-        # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+        title: TraceVision - Missing Persons System
+        link: https://github.com/imrooteodoro/trace-vision-chatbot
+        description: |
+          • WhatsApp chatbot for missing person registration/location  
+          • Image processing with Amazon Rekognition + DynamoDB storage  
+          • Serverless architecture using AWS Lambda/API Gateway  
+          Technologies: Python, AWS, Twilio, NLP
 
-  - title: Experience # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: The Boring Company
-        link: boringcompany.com
-        # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
-        quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-        description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+      - layout: top-middle
+        title: LaTeX AI - Document Generator
+        link: https://github.com/imrooteodoro/latex-ai-agent
+        description: |
+          • Automated LaTeX generation from natural language prompts  
+          • Few-shot learning integration with language models  
+          • Web interface built with Flask/Docker  
+          Technologies: Python, Flask, LaTeX, Transformers
 
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-        description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+      - layout: top-middle
+        title: Financial Email Classifier
+        link: https://github.com/imrooteodoro/email-classifier
+        description: |
+          • BERTimbau model fine-tuned for Brazilian Portuguese financial emails  
+          • Complete pipeline from preprocessing to deployment  
+          • Legacy system integration via REST API  
+          Technologies: Python, BERT, Transformers, FastAPI, Pandas
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 
+# Footer
+footer_show_references: true
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+  - jekyll-seo-tag
   - title: A Little More About Me
     layout: text
-    content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+    content: | 
+      Beyond technology, I cultivate a multidimensional perspective through:
+      
+      **🧠 Intellectual Pursuits**
+      - Avid student of mathematical concepts (particularly Linear Algebra and Discrete Mathematics)
+      - Competitive chess player (Elo 1600 - tactics enthusiast)
+      - Native Portuguese speaker, fluent in English, intermediate in Russian. Currently exploring Greek, Italian, Spanish, and French.
 
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      **✨ Faith & Philosophy**
+      - Strong believer in faith-driven development principles
+      - Interested in the intersection of spirituality and technology
 
+    
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
