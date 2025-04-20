@@ -1,6 +1,6 @@
 title: Adelson Teodoro
-#logo: https://github.com/imrooteodoro/mycv/blob/main/img/imrooteodoro.png?raw=true
+logo: https://github.com/imrooteodoro/mycv/blob/main/img/imrooteodoro.png?raw=true
 #description: text below image
 #show_downloads: true
-theme: jekyll-theme-cayman
+theme: jekyll-resume
 include: ["https://github.com/imrooteodoro/mycv/blob/main/assets/style.css"]
