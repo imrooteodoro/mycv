@@ -79,7 +79,7 @@ content:
     layout: list
     content:
       - layout: left
-        title: AI Engineer - AutoU (B3 Client)
+        title: AI Engineer - AutoU (@B3)
         caption: Feb 2025 - Present
         description: |
           • Built automation systems for dataset sanitization and BERT model training  
@@ -88,7 +88,7 @@ content:
           • Technologies: Python, Transformers, FastAPI, ChromaDB, Azure OpenAI, Docker
 
       - layout: left
-        title: AI Engineer - Compass.UOL (Cleint Tecban - Finna MVP)
+        title: AI Engineer - Compass.UOL (@Tecban - Fina MVP Project)
         caption: Sep 2024 - Feb 2025
         description: |
           • Developed MVP for OpenFinance data analysis using generative AI  
@@ -97,7 +97,7 @@ content:
           • Technologies: Python, AWS Lambda, Bedrock, DynamoDB, Terraform
 
       - layout: left
-        title: AWS AI Engineer - Compass.UOL (Intern)
+        title: AWS AI Engineer - Compass.UOL (Internship)
         caption: Mar 2024 - Aug 2024
         description: |
           • Developed POCs in Generative AI and Computer Vision  
