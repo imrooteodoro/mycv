@@ -81,13 +81,13 @@ content:
 
       - layout: left
         title: AI Developer - Construmarket
-        caption: jun 2025 - present
+        caption: Jun 2025 - Present
         description: | 
           ... creating description
-          
+
       - layout: left
         title: AI Engineer - AutoU (@B3)
-        caption: Feb 2025 - jun 2025
+        caption: Feb 2025 - Jun 2025
         description: |
           • Built automation systems for dataset sanitization and BERT model training  
           • Implemented semantic email analysis using vector databases for LLM inputs and RAG  
